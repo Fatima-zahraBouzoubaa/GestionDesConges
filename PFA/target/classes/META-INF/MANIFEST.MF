@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: m
+Build-Jdk: 17.0.7
+Implementation-Title: PFA
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: PFA
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/PFA/
+Created-By: Maven Integration for Eclipse
+
